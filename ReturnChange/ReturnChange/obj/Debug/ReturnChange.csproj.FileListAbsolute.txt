@@ -1,0 +1,7 @@
+C:\Users\ijerosimic\source\repos\ReturnChange\ReturnChange\bin\Debug\ReturnChange.exe.config
+C:\Users\ijerosimic\source\repos\ReturnChange\ReturnChange\bin\Debug\ReturnChange.exe
+C:\Users\ijerosimic\source\repos\ReturnChange\ReturnChange\bin\Debug\ReturnChange.pdb
+C:\Users\ijerosimic\source\repos\ReturnChange\ReturnChange\obj\Debug\ReturnChange.csprojAssemblyReference.cache
+C:\Users\ijerosimic\source\repos\ReturnChange\ReturnChange\obj\Debug\ReturnChange.csproj.CoreCompileInputs.cache
+C:\Users\ijerosimic\source\repos\ReturnChange\ReturnChange\obj\Debug\ReturnChange.exe
+C:\Users\ijerosimic\source\repos\ReturnChange\ReturnChange\obj\Debug\ReturnChange.pdb
