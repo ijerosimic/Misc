@@ -1,0 +1,7 @@
+C:\Users\ijerosimic\source\repos\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+C:\Users\ijerosimic\source\repos\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\ijerosimic\source\repos\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\ijerosimic\source\repos\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csprojAssemblyReference.cache
+C:\Users\ijerosimic\source\repos\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\ijerosimic\source\repos\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+C:\Users\ijerosimic\source\repos\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb
