@@ -1,0 +1,7 @@
+c:\users\ijerosimic\source\repos\Workflow Engine\Workflow Engine\bin\Debug\Workflow Engine.exe.config
+c:\users\ijerosimic\source\repos\Workflow Engine\Workflow Engine\bin\Debug\Workflow Engine.exe
+c:\users\ijerosimic\source\repos\Workflow Engine\Workflow Engine\bin\Debug\Workflow Engine.pdb
+c:\users\ijerosimic\source\repos\Workflow Engine\Workflow Engine\obj\Debug\Workflow Engine.csprojAssemblyReference.cache
+c:\users\ijerosimic\source\repos\Workflow Engine\Workflow Engine\obj\Debug\Workflow Engine.csproj.CoreCompileInputs.cache
+c:\users\ijerosimic\source\repos\Workflow Engine\Workflow Engine\obj\Debug\Workflow Engine.exe
+c:\users\ijerosimic\source\repos\Workflow Engine\Workflow Engine\obj\Debug\Workflow Engine.pdb
