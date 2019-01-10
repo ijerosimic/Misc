@@ -1,0 +1,7 @@
+C:\Users\ijerosimic\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe.config
+C:\Users\ijerosimic\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe
+C:\Users\ijerosimic\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.pdb
+C:\Users\ijerosimic\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\ijerosimic\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.exe
+C:\Users\ijerosimic\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.pdb
+C:\Users\ijerosimic\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csprojAssemblyReference.cache
