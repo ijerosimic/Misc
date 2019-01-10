@@ -1,0 +1,35 @@
+﻿body
+{
+    font-family: Calibri, 'Times New Roman', Arial, sans-serif;
+    background-color: #56637a;
+}
+
+div {
+    font-size: 20px;
+    color: white;
+    text-align:center;
+    vertical-align:middle;
+}
+
+img {
+    background-color: white;
+    padding: 10px;
+    border: 5px solid #000000;
+    height: 300px;
+    width: auto;
+}
+
+.strelice {
+    text-decoration: none;
+    font-size: 80px;
+    color: white;
+}
+.strelice:hover {
+    cursor:pointer;
+}
+
+.izbornik {
+    width: 170px;
+    height: 30px;
+}
+

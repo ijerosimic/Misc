@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domaca Zadaca 2", "Domaca Zadaca 2", "{42A5287D-1767-4577-B29F-93D8545FC586}"
+	ProjectSection(SolutionItems) = preProject
+		DZ2.css = DZ2.css
+		DZ2.html = DZ2.html
+		DZ2.js = DZ2.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0882A3E1-309D-4F3A-BC2F-8F6F733B41A8}
+	EndGlobalSection
+EndGlobal
