@@ -1,0 +1,7 @@
+C:\Users\ijerosimic\source\repos\PreracunBrutoNeto\PreracunBrutoNeto\bin\Debug\PreracunBrutoNeto.exe.config
+C:\Users\ijerosimic\source\repos\PreracunBrutoNeto\PreracunBrutoNeto\bin\Debug\PreracunBrutoNeto.exe
+C:\Users\ijerosimic\source\repos\PreracunBrutoNeto\PreracunBrutoNeto\bin\Debug\PreracunBrutoNeto.pdb
+C:\Users\ijerosimic\source\repos\PreracunBrutoNeto\PreracunBrutoNeto\obj\Debug\PreracunBrutoNeto.csprojAssemblyReference.cache
+C:\Users\ijerosimic\source\repos\PreracunBrutoNeto\PreracunBrutoNeto\obj\Debug\PreracunBrutoNeto.csproj.CoreCompileInputs.cache
+C:\Users\ijerosimic\source\repos\PreracunBrutoNeto\PreracunBrutoNeto\obj\Debug\PreracunBrutoNeto.exe
+C:\Users\ijerosimic\source\repos\PreracunBrutoNeto\PreracunBrutoNeto\obj\Debug\PreracunBrutoNeto.pdb
