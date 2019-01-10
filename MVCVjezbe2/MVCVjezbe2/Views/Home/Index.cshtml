@@ -1,0 +1,30 @@
+﻿@model MVCVjezbe2.Models.Student
+
+
+<!DOCTYPE html>
+<link rel="stylesheet" href="~/lib/bootstrap/css/**.css" />
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form method="post">
+        <h2>Unos studenta</h2>
+        <div class="row">
+            <div asp-validation-summary="All"></div>
+            <div class="col-lg-2">Ime:<input asp-for="Ime" /></div>
+            <div class="col-lg-2">Prezime:<input asp-for="Prezime" /></div>
+            <div class="col-lg-2">Email:<input asp-for="Email" type="email" /></div>
+            <div class="col-lg-2">
+                Status:
+                <select asp-for="Status">
+                    <option value="">Odaberi</option>
+                    <option value="true">Redovan</option>
+                    <option value="false">Izvanredan</option>
+                </select>
+            </div>
+            <input type="submit" />
+    </form>
+</body>
+</html>

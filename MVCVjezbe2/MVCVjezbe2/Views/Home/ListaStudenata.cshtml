@@ -1,0 +1,36 @@
+﻿@model IEnumerable<MVCVjezbe2.Models.Student>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Studenti</title>
+</head>
+<body>
+    <table>
+        <thead>
+        <th>Ime</th>
+        <th>Prezime</th>
+        <th>Email</th>
+        <th>Status</th>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.Ime</td>
+                    <td>@student.Prezime</td>
+                    <td>@student.Email</td>
+                    <td>@(student.Status ? "Redovni student" : "Izvanredni student")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-action="Index">< Ponovi unos</a>
+</body>
+</html>

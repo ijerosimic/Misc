@@ -1,0 +1,19 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Potvrda</title>
+</head>
+<body>
+    <h2>Potvrda</h2>
+    Student @ViewBag.Ime @ViewBag.Prezime je uspješno dodan.
+    <div class="row"><a asp-action="Index">< Ponovi unos</a></div>
+    <div class="row"><a asp-action="ListaStudenata">< Prikaži unesene studente</a></div>
+</body>
+</html>
